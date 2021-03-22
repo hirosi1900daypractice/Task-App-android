@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="times_button" type="id" />
+    <item name="content_edit_text" type="id" />
+    <item name="title_edit_text" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
